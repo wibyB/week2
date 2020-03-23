@@ -35,6 +35,9 @@ while (mesin < 20){
     mesin++
     console.log(mesin)
 }
+if (mesin = 20){
+    console.log('mulai mencuci')
+}
 
 //SET baju VALUE WITH 20
 //SET MESIN VALUE WITH 0 
