@@ -1,5 +1,5 @@
-var nama = 'Bolky';
-var peran = 'Ksatria' ;
+var nama = 'Bolky'
+var peran = 'Ksatria' 
 
 if (nama === '' || peran === '') {
     console.log('nama harus di isi')
