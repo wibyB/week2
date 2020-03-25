@@ -1,3 +1,4 @@
+//nomer 1
 var rows1 = 5 // input the number of rowss
 var i = 0
 
@@ -9,7 +10,7 @@ while (i < rows1){
     console.log('*')
 }
 
-
+//nomer 2
 var rows2 = 5 // input the number of rows
 var col2 = 5
 
